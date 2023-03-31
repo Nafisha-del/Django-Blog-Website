@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\blog",
+    "\\blog\\static",
+    "\\blog\\static\\blog",
+    "\\blog\\templates",
+    "\\blog\\templates\\blog",
+    "\\blog\\templates\\blog\\includes",
+    "\\my_site",
+    "\\uploads\\posts"
+  ],
+  "SelectedNode": "\\blog\\templates\\blog\\stored-posts.html",
+  "PreviewInSolutionExplorer": false
+}
